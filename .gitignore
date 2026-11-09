@@ -1,0 +1,14 @@
+.DS_Store
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+Local.xcconfig
+GoogleService-Info.plist
+*.p12
+*.p8
+*.mobileprovision
+*.ipa
+*.xcarchive
+Carribu.xcodeproj/
+.build/
